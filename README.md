@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Jasmine Kaur
 
-<!--
-**jasminekaur-ai/jasminekaur-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student  
+🤖 Specialization: Artificial Intelligence  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning Python, Data Structures & Algorithms
+- 💻 Interested in Artificial Intelligence and Software Development
+- 🎯 Goal: Build strong AI projects and pursue higher studies abroad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Programming
+- Python
+- Java
+- MySQL
+
+### Currently Learning
+- Data Structures & Algorithms
+- Machine Learning
+- Git & GitHub
+
+## 📚 Current Focus
+- Improving problem-solving skills
+- Building real-world projects
+- Exploring Artificial Intelligence
+
+## 📌 Projects
+Coming soon...
+
+## 📫 Connect With Me
+LinkedIn: Coming soon
